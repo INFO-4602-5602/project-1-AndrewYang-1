@@ -1,0 +1,1 @@
+I referenced some earlier projects looking through the submissions. I collaborated with Ben Niu, Marissa Kelley, and Tom S. I asked them questions and referenced parts of their code.
